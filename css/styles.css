@@ -9,6 +9,7 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   font-family: "Raleway", sans-serif;
+  font-size: 26px;
 }
 .header-list .header-items .link-header {
   color: rgb(33, 33, 33);
@@ -17,6 +18,7 @@
   font-weight: 500;
   line-height: 1.17;
   letter-spacing: 0.02em;
+  font-size: 14px;
 }
 .header-list {
   list-style: none;
@@ -57,6 +59,7 @@
   line-height: 1.36;
   letter-spacing: 0.06em;
   text-align: center;
+  font-size: 44px;
 }
 .mainbutton {
   color: #ffffff;
@@ -68,6 +71,7 @@
   line-height: 1.87;
   letter-spacing: 0.06em;
   text-align: center;
+  font-size: 16px;
 }
 .subtitle {
   color: rgb(33, 33, 33);
@@ -76,6 +80,7 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-align: left;
+  font-size: 14px;
 }
 .subtitle-dos {
   color: rgb(117, 117, 117);
@@ -83,6 +88,8 @@
   font-weight: 700;
   letter-spacing: 0.03em;
   text-align: left;
+  font-size: 14px;
+  line-height: 1.87;
 }
 .parrafo {
   color: rgb(117, 117, 117);
@@ -91,6 +98,16 @@
   line-height: 1.71;
   letter-spacing: 0.03em;
   text-align: left;
+  font-size: 14px;
+}
+.parrafod {
+  color: rgb(117, 117, 117);
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  text-align: left;
+  font-size: 16px;
 }
 .sub {
   color: rgb(33, 33, 33);
@@ -99,6 +116,7 @@
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-align: center;
+  font-size: 36px;
 }
 .subname {
   color: rgb(33, 33, 33);
@@ -106,18 +124,29 @@
   font-weight: 500;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  font-size: 16px;
 }
 .info-list {
   background-color: #2f303a;
   list-style: none;
 }
-.info .link-footer {
+.info .link-foot {
   color: rgb(255, 255, 255);
   font-family: "Roboto", sans-serif;
   text-decoration: none;
   font-weight: 400;
   line-height: 1.71;
   letter-spacing: 0.03em;
+  font-size: 14px;
+}
+.info .link-footer {
+  color: rgb(117, 117, 117);
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  font-weight: 400;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  font-size: 14px;
 }
 
 * {
@@ -130,6 +159,8 @@
   cursor: pointer;
   font-weight: 500;
   line-height: 1.62;
+  font-size: 16px;
+  letter-spacing: 0.03em;
 }
 .button:hover {
   color: rgb(255, 255, 255);
@@ -139,31 +170,15 @@
   color: rgb(33, 33, 33);
   font-weight: 700;
   line-height: 2;
+  font-size: 18px;
+  letter-spacing: 0.06em;
 }
 .text {
   color: rgb(117, 117, 117);
   font-weight: 400;
   line-height: 1.87;
-}
-.two-grafic {
-  color: rgb(33, 33, 33);
-  font-weight: 700;
-  line-height: 2;
-}
-.two-text {
-  color: rgb(117, 117, 117);
-  font-weight: 400;
-  line-height: 1.87;
-}
-.three-grafic {
-  color: rgb(33, 33, 33);
-  font-weight: 700;
-  line-height: 2;
-}
-.three-text {
-  color: rgb(117, 117, 117);
-  font-weight: 400;
-  line-height: 1.87;
+  font-size: 16px;
+  letter-spacing: 0.03em;
 }
 .img-section {
   list-style: none;
